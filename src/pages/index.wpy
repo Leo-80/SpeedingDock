@@ -4,7 +4,7 @@
 
 <template>
   <view class='container'>
-    <view>test</view>
+    <view>test123</view>
   </view>
 </template>
 
